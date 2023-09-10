@@ -1,0 +1,25 @@
+#bar{
+    width:200px;
+    visibility:hidden;
+}
+#google_translate_element{
+    display:none;
+    position:fixed;
+    top:57px;
+    right:90px;
+    z-index:3;
+    text-align:right;
+}
+#darkmodemenu{
+    top: 22px;
+}
+#googlesearch{
+    display:none;
+    position:fixed;
+    z-index:4;
+    right:52px;
+    height:30px;
+    top:52px;
+    background-color:#282A35;
+    letter-spacing:normal;
+}
