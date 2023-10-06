@@ -1,18 +1,14 @@
 import './App.css';
 import Header from './Header.js';
-import Swiper from './Slider.js'
 import Home from './page1/Home';
+import Html from './page1/Html';
 
 function App() {
   return (
     <div className="App">
-      <div id='headbar'>
       <Header />
-      </div>
-      <div id='herosection'>
-      <Home/>
-      </div>
-      
+      <Home/>   
+      <Html/>   
 
       
     </div>
